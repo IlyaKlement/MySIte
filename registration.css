@@ -1,0 +1,41 @@
+body {
+    background: url(images/16.jpg) no-repeat;
+}
+
+.form_registration {
+    text-align: center;
+    margin-top: 15%;
+}
+
+.form_registration a {
+    text-decoration: none;
+}
+
+.form_Registr {
+    font-size: 30px;
+
+}
+
+.input_registr {
+    font-size: 25px;
+    margin-top: 1%;
+}
+
+.input_registr_1 {
+    background-color: rgba(87, 68, 68, 0.25);
+    font-size: 20px;
+}
+
+#text-error {
+    color: red;
+}
+.error-border {
+    border: 2px solid red;
+    font-size: 25px;
+    margin-top: 1%;
+}
+.success-border {
+    border: 2px solid rgba(154, 245, 18, 0.918);
+    font-size: 25px;
+    margin-top: 1%;
+}

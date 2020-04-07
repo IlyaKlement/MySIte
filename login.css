@@ -1,0 +1,37 @@
+body {
+    background: url(images/16.jpg) no-repeat;
+}
+
+.form_login {
+    text-align: center;
+    margin-top: 15%;
+}
+
+.form_login a {
+    font-size: 20px;
+}
+
+.input_login {
+    font-size: 25px;
+    margin: 5px;
+}
+
+.input_login_form {
+    font-size: 20px;
+}
+
+p {
+    font-size: 15px;
+}
+
+#text-error {
+    color: red;
+}
+.error-border {
+    border: 2px solid red;
+    font-size: 25px;
+}
+.success-border{
+    border: 2px solid greenyellow;
+    font-size: 25px;
+}   

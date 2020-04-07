@@ -1,0 +1,13 @@
+body {
+    background: url(images/16.jpg);
+}
+.text_finish_reg {
+    margin-left: 40%;
+    margin-top: 20%;
+}
+.text_finish_reg a {
+    margin-left: 15%;
+}
+.turn_back {
+    color: #000000;
+}
